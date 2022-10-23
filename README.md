@@ -2,7 +2,7 @@
 
 ***February 11, 2021***
 
-Converts a given temperature from Centigrade to Fahrenheit
+Converts a given temperature from Centigrade to Fahrenheit.
 
 ## Used In This Repository
 
