@@ -10,14 +10,6 @@ Converts a given temperature from Centigrade to Fahrenheit.
 
 ## Getting Started
 
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
-
 ## Version History
 
 * 0.1
